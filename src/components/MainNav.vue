@@ -18,10 +18,10 @@ export default {
   name: "MainNav",
   data() {
     return {
-      company: "Bobo Careers",
+      company: "yes mon homme",
       author: {
-        firstName: "Boris",
-        lastName: "Paskhaver",
+        firstName: "simon",
+        lastName: "Williams",
       },
     };
   },
